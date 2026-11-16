@@ -4,7 +4,8 @@ import 'providers/train_tracking_provider.dart';
 import 'providers/auth_provider.dart';
 import 'providers/app_settings_provider.dart';
 import 'constants/app_colors.dart';
-import 'screens/home_screen.dart';
+
+import 'screens/login_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
